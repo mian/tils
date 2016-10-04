@@ -1,2 +1,2 @@
 # TILS
-Today i learnt something
+Today I learned something
